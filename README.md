@@ -4,7 +4,7 @@
 
 📍 India  
 📧 anjalisingh726@gmail.com  
-🌐 Portfolio: https://anjaliisingh12.github.io/anjali-portfolio/  
+🌐 Portfolio:https://anjali-portfolio-01.s3.us-east-2.amazonaws.com/index.html  
 
 ---
 
