@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Anjali 
 
-🎓 B.Tech CSE Student | 💻 Full Stack Developer | 🚀 Problem Solver  
+🎓 Final Year B.Tech CSE Student | 💻 Full Stack Developer | 🚀 Problem Solver  
 
 📍 India  
 📧 anjalisingh726@gmail.com  
