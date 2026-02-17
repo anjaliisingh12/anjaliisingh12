@@ -3,7 +3,7 @@
 🎓 Final Year B.Tech CSE Student | 💻 Full Stack Developer | 🚀 Problem Solver  
 
 📍 India  
-📧 anjalisingh726@gmail.com  
+📧 anjalisingh947299@gmail.com  
 🌐 Portfolio:https://anjali-portfolio-01.s3.us-east-2.amazonaws.com/index.html  
 
 ---
