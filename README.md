@@ -4,7 +4,7 @@
 
 📍 India  
 📧 anjalisingh947299@gmail.com  
-🌐 Portfolio:https://anjali-portfolio-01.s3.us-east-2.amazonaws.com/index.html  
+🌐 Portfolio:https://dfpvntqdz3hzv.cloudfront.net
 
 ---
 
