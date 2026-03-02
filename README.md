@@ -1,23 +1,21 @@
-# 👋 Hi, I'm Anjali 
+# 👋 Hi, I'm Anjali Singh
 
-🎓 Final Year B.Tech CSE Student | 💻 Full Stack Developer | 🚀 Problem Solver  
+🎓 Final Year B.Tech CSE Student  
+💻 Full Stack Developer  
+🚀 Problem Solver  
 
 📍 India  
-📧 anjalisingh947299@gmail.com
-🌐 https://dfpvntqdz3hzv.cloudfront.net
-
-
-
-
-
+📧 anjalisingh947299@gmail.com  
+🌐 Portfolio: https://dfpvntqdz3hzv.cloudfront.net  
+🔗 GitHub: https://github.com/anjaliisingh12  
 
 ---
 
 ## 💡 About Me
 
-- 🔭 Currently building Full Stack Web Applications (MERN Stack)
+- 🔭 Currently building scalable Full Stack Web Applications (MERN Stack)
 - 🌱 Exploring Machine Learning & Backend Architecture
-- 🧠 Solved 400+ problems on LeetCode
+- 🧠 Solved 400+ Data Structures & Algorithms problems on LeetCode
 - ☁️ Experience deploying projects using AWS (S3, EC2, CloudFront)
 - 🤝 Open to internships & entry-level Software Developer roles
 
@@ -36,7 +34,7 @@
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 
-### 💻 Backend
+### ⚙ Backend
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
@@ -45,7 +43,7 @@
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-00758F?style=for-the-badge&logo=mysql&logoColor=white)
 
-### ⚙ Tools
+### ☁️ Tools & Cloud
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
@@ -54,21 +52,22 @@
 
 ## 🌟 Featured Projects
 
-### 🏥 Hospital Management System
-Full-stack web application with Admin, Doctor & Patient panels  
-Tech: HTML, CSS, PHP, MySQL  
+### 🏥 Hospital Management System  
+Full-stack web application with Admin, Doctor & Patient panels.  
+**Tech:** HTML, CSS, PHP, MySQL  
 
-### 🛒 Grocery E-Commerce Application
-MERN stack project with JWT authentication & REST APIs  
+### 🛒 Grocery E-Commerce Application  
+MERN stack project with JWT authentication & REST APIs.  
+**Tech:** MongoDB, Express, React, Node.js  
 
-### 📈 Stock Price Prediction Model
-LSTM-based ML model using Python & TensorFlow  
+### 📈 Stock Price Prediction Model  
+LSTM-based Machine Learning model using Python & TensorFlow.  
 
 ---
 
 ## 📊 GitHub Stats
 
-![Anjali's GitHub stats](https://github-readme-stats.vercel.app/api?username=anjaliisingh12&show_icons=true&theme=tokyonight)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=anjaliisingh12&show_icons=true&theme=tokyonight)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=anjaliisingh12&layout=compact&theme=tokyonight)
 
@@ -80,4 +79,4 @@ Aspiring Software Developer passionate about building scalable applications, sol
 
 ---
 
-✨ Let's build something amazing!
+⭐ If you like my work, feel free to connect and collaborate!
