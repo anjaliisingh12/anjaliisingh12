@@ -67,9 +67,11 @@ LSTM-based Machine Learning model using Python & TensorFlow.
 
 ## 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=anjaliisingh12&show_icons=true&theme=tokyonight)
+![GitHub 
+Stats](https://github-readme-stats.vercel.app/api?username=anjaliisingh12&show_icons=true&theme=tokyonight)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=anjaliisingh12&layout=compact&theme=tokyonight)
+![Top 
+Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=anjaliisingh12&layout=compact&theme=tokyonight)
 
 ---
 
