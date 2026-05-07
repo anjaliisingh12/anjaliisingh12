@@ -6,7 +6,9 @@
 
 📍 India  
 📧 anjalisingh947299@gmail.com  
+
 🌐 Portfolio: https://anjali-portfolio-mauve.vercel.app/  
+
 🔗 GitHub: https://github.com/anjaliisingh12  
 
 ---
